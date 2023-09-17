@@ -1,3 +1,3 @@
-[DEADLINED](https://megarion.itch.io/deadlined)
+# [DEADLINED](https://megarion.itch.io/deadlined)
 
 More projects coming soon...
