@@ -1,5 +1,2 @@
-# [DEADLINED](https://megarion.itch.io/deadlined)
-A top-down shooter
-<br><br>
-## Other
-More projects coming soon...
+# hi!
+this organization is for collaboration on my video games!
